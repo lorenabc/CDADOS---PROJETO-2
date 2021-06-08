@@ -5,21 +5,21 @@
 - Alice Azevêdo Longman, Lorena Budin Carmona, Luísa Manzig Kyrillos, Sarah Azevedo Pimenta da Costa
   
 ## Obejtivo do Projeto:
-<p>- Responder se: a partir de informações sobre uma mulher, é possível identificar uma pré disposição a câncer cervical?
-<p>- O nosso target é qualitativo, uma que queremos prever uma pré disposição.
+- Responder se: a partir de informações sobre uma mulher, é possível identificar uma pré disposição a câncer cervical?
+- O nosso target é qualitativo, uma que queremos prever uma pré disposição.
 
 ## Arquivos do repositório:
-<p>kag_risk_factors_cervical_cancer.csv -> Arquivo Excel que contém os dados dos jogos (tanto do Train como do Test).
-<p>Leitura_Dataset.ipynb -> Arquivo que contém todas as informações do projeto, como: os códigos e gráficos (relatório final).
+kag_risk_factors_cervical_cancer.csv -> Arquivo Excel que contém os dados dos jogos (tanto do Train como do Test).
+Leitura_Dataset.ipynb -> Arquivo que contém todas as informações do projeto, como: os códigos e gráficos (relatório final).
   
 ## Fonte de Informação:
-<p>Gokagglers, Founder at Biome.AI, Cervical Cancer Risk Classification
+Gokagglers, Founder at Biome.AI, Cervical Cancer Risk Classification
 prediction of cancer indicators; Please download; run kernel & upvote, Bengaluru, Karnataka, India, 2017. 
-<p>Link: https://www.kaggle.com/loveall/cervical-cancer-risk-classification/metadata 
+Link: https://www.kaggle.com/loveall/cervical-cancer-risk-classification/metadata 
   
 ## Descrição do dataset:
-<p>- As informações do dataset foram obtidas a partir da coleta de dados de mulheres que foram diagnosticadas com câncer cervical.
-<p>- A base de dados contém diversas informações pessoais, como idade, quantidade de parceiros sexuais, número de gravidez e etc.
+- As informações do dataset foram obtidas a partir da coleta de dados de mulheres que foram diagnosticadas com câncer cervical.
+- A base de dados contém diversas informações pessoais, como idade, quantidade de parceiros sexuais, número de gravidez e etc.
 
   
  
