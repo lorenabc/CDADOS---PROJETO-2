@@ -3,7 +3,7 @@
 <p>Turma 2A
 <p>Grupo: Alice Azevêdo Longman, Lorena Budin Carmona, Luísa Manzig Kyrillos, Sarah Azevedo Pimenta da Costa<\p>
   
-<p>*OBJETIVO DO PROJETO*:
+## OBJETIVO DO PROJETO:
 <p>- Responder se: a partir de informações sobre uma mulher, é possível identificar uma pré disposição a câncer cervical?
 <p>- O nosso target é qualitativo, uma que queremos prever uma pré disposição.
 
