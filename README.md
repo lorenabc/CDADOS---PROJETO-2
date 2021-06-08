@@ -9,8 +9,8 @@
 - O nosso target é qualitativo, uma que queremos prever uma pré disposição.
 
 ## Arquivos do repositório:
-- kag_risk_factors_cervical_cancer.csv -> Arquivo Excel que contém os dados dos jogos (tanto do Train como do Test).
-Leitura_Dataset.ipynb -> Arquivo que contém todas as informações do projeto, como: os códigos e gráficos (relatório final).
+- kag_risk_factors_cervical_cancer.csv -> Arquivo Excel que contém informações pessoais, como idade, quantidade de parceiros sexuais, número de gravidez e etc.
+- Leitura_Dataset.ipynb -> Arquivo que contém todas as informações do projeto, como: os códigos e gráficos (relatório final).
   
 ## Fonte de Informação:
 - Gokagglers, Founder at Biome.AI, Cervical Cancer Risk Classification
